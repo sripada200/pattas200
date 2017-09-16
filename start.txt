@@ -1,4 +1,0 @@
-Test Git Quick Start Demo
-
-
-This is test file and no code has been done
