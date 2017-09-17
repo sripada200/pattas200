@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Test Git Quick Start Demo
 
 
 This is test file and no code has been done
 
 Thi is test file
+=======
+>>>>>>> db78df43d9cd2206fd6aa19745974c69d524db79
